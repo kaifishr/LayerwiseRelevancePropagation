@@ -14,5 +14,5 @@ image:
   channels: 3
 
 paths:
-  image_dir: "./images/"
-  results_dir: "./results/"
+  image_dir: "../images/"
+  results_dir: "../results/"
