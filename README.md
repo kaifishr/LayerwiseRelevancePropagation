@@ -1,2 +1,2 @@
 # LayerwiseRelevancePropagation
-A basic implementation of the Layer-wise Relevance Propagation algorithm in Tensorflow.
+A basic implementation of Layer-wise Relevance Propagation in Tensorflow.
